@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Jbc Construction",
+    "phone": "+13162589831",
+    "category": "general contractor",
+    "city": "Wichita",
+    "state": "KS"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-red-charge",
+      "categoryGroup": "general-contractor",
+      "name": "Red Charge",
+      "recipeFile": "general-contractor/red-charge.astro",
+      "colors": {
+        "primary": "#1E3A5F",
+        "primaryDark": "#0F1D30",
+        "primaryLight": "#c7ced7",
+        "secondary": "#1b3456",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1E3A5F",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Building Wichita, One Project at a Time",
+      "heroSubline": "Jbc Construction: Trusted Wichita general contractor. Quality craftsmanship, reliable service, and community commitment.",
+      "aboutTitle": "Your Trusted Wichita General Contractor",
+      "aboutText": [
+        "Jbc Construction started with a simple goal: to provide honest, reliable construction services to our neighbors in Wichita and the surrounding areas. Founded by local Wichita residents, we understand the unique needs of homeowners in our community, from dealing with Kansas' unpredictable weather to preserving the charm of our established neighborhoods like College Hill and Riverside.",
+        "We believe in a collaborative approach, working closely with you every step of the way to ensure your vision becomes a reality. Our values are rooted in integrity, transparency, and a commitment to exceeding your expectations. We prioritize clear communication and meticulous attention to detail, ensuring a smooth and stress-free construction experience.",
+        "Jbc Construction is more than just a construction company; we're a part of the Wichita community. We're proud to support local businesses and organizations, and we're dedicated to contributing to the growth and prosperity of our city. We treat every project as if it were our own, ensuring lasting quality and satisfaction."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Wichita's climate, building codes, and neighborhood characteristics."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront pricing with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced team dedicated to delivering exceptional workmanship."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion and responsive communication throughout the process."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today",
+      "ctaSubline": "Contact Jbc Construction for a free consultation and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Wichita home with Jbc Construction.",
+        "description": "A kitchen remodel is one of the best investments you can make in your home. Jbc Construction specializes in creating kitchens that are both beautiful and functional, tailored to your specific needs and lifestyle. Whether you're dreaming of a modern, open-concept design or a cozy, traditional space, we can bring your vision to life.\n\nOur kitchen remodeling services include everything from design and planning to demolition, construction, and finishing touches. We handle all aspects of the project, including cabinetry, countertops, flooring, lighting, and appliance installation. We work with a wide range of materials and styles to match your taste and budget. We carefully consider the unique aspects of Wichita homes, such as existing plumbing and electrical systems, and ensure all work is up to code.\n\nWe understand that a kitchen remodel can be disruptive, which is why we strive to minimize the inconvenience and maintain a clean and safe work environment. Our team is committed to completing your project on time and within budget, with minimal disruption to your daily life. From initial consultation to final walk-through, we'll be there to guide you through every step of the process.",
+        "process": [
+          "Step 1: Consultation and Design – We'll discuss your vision, budget, and timeline.",
+          "Step 2: Planning and Permitting – We'll create detailed plans and obtain all necessary permits.",
+          "Step 3: Demolition and Construction – We'll carefully remove existing fixtures and begin construction.",
+          "Step 4: Finishing Touches – We'll install new appliances, countertops, and fixtures, ensuring everything is perfect."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetic appeal",
+          "Personalized design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project, but typically ranges from 4 to 8 weeks."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary, it's often more convenient to move out during the demolition and construction phases."
+          },
+          {
+            "question": "How much does a kitchen remodel cost?",
+            "answer": "The cost of a kitchen remodel depends on the size and complexity of the project, as well as the materials used. We provide detailed estimates upfront to avoid surprises."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create your dream bathroom with Jbc Construction's expert remodeling services in Wichita.",
+        "description": "Your bathroom should be a relaxing and functional space that meets your needs. Jbc Construction specializes in transforming outdated bathrooms into luxurious retreats. Whether you're looking to update fixtures, expand the space, or create a spa-like atmosphere, we can help.\n\nOur bathroom remodeling services include everything from design and planning to demolition, construction, and finishing touches. We handle all aspects of the project, including plumbing, electrical work, tiling, and fixture installation. We're experienced in working with a variety of materials, from classic ceramic tile to modern stone and glass. We understand the specific challenges of bathroom remodeling in Wichita homes, such as dealing with older plumbing systems and ensuring proper ventilation to combat humidity.\n\nWe're committed to providing exceptional workmanship and customer service. We'll work closely with you to create a bathroom that reflects your personal style and meets your functional needs. We'll also ensure that the project is completed on time and within budget, with minimal disruption to your daily life.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision and budget.",
+          "Step 2: Planning and Permitting – Develop detailed plans and obtain necessary permits.",
+          "Step 3: Demolition and Construction – Carefully remove existing fixtures and begin construction.",
+          "Step 4: Fixture Installation – Install new plumbing, lighting, and bathroom fixtures."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved comfort and functionality",
+          "Enhanced aesthetic appeal",
+          "Water conservation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel takes between 2 to 4 weeks, depending on the scope of the project."
+          },
+          {
+            "question": "Do I need to obtain permits for a bathroom remodel?",
+            "answer": "In most cases, permits are required for plumbing and electrical work. We'll handle the permitting process for you."
+          },
+          {
+            "question": "Can you help me choose the right fixtures and materials?",
+            "answer": "Yes, we can provide guidance and recommendations based on your style preferences and budget."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the full potential of your Wichita home with Jbc Construction's basement finishing services.",
+        "description": "A finished basement can add valuable living space to your Wichita home, increasing its value and providing a comfortable area for your family to enjoy. Jbc Construction specializes in transforming unfinished basements into functional and beautiful spaces.\n\nOur basement finishing services include everything from framing and insulation to electrical work, plumbing, and flooring. We can create a variety of spaces, including home theaters, game rooms, home offices, and extra bedrooms. We're experienced in dealing with the unique challenges of basement finishing in Wichita homes, such as moisture control and foundation issues. We use high-quality materials and proven techniques to ensure a dry, comfortable, and energy-efficient space.\n\nWe're committed to providing exceptional workmanship and customer service. We'll work closely with you to design a basement that meets your specific needs and budget. We'll also ensure that the project is completed on time and within budget, with minimal disruption to your daily life. Considering Wichita's tendency for severe weather, we can also incorporate storm shelters into the design.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your goals and budget.",
+          "Step 2: Planning and Permitting – Develop detailed plans and obtain necessary permits.",
+          "Step 3: Framing and Insulation – Build the structure and insulate for comfort and energy efficiency.",
+          "Step 4: Electrical and Plumbing – Install wiring and plumbing for lighting, outlets, and fixtures."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Customized design"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "The duration of a basement finishing project depends on the size and complexity of the space, but typically ranges from 6 to 12 weeks."
+          },
+          {
+            "question": "Do I need to worry about moisture in my basement?",
+            "answer": "Yes, moisture control is essential in basements. We'll take steps to ensure your finished basement is dry and comfortable."
+          },
+          {
+            "question": "Can you incorporate a bathroom or wet bar into my finished basement?",
+            "answer": "Yes, we can incorporate bathrooms, wet bars, and other custom features into your finished basement."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enhance your outdoor living space with a custom deck or patio from Jbc Construction in Wichita.",
+        "description": "Enjoy the beautiful Kansas weather with a custom deck or patio from Jbc Construction. We specialize in designing and building outdoor living spaces that are both functional and aesthetically pleasing.\n\nOur deck and patio construction services include everything from design and planning to construction and finishing touches. We work with a variety of materials, including wood, composite decking, pavers, and concrete. We can create a variety of designs, from simple decks and patios to elaborate outdoor kitchens and entertainment areas. We consider the specific challenges of outdoor construction in Wichita, such as dealing with extreme temperatures and ensuring proper drainage.\n\nWe're committed to providing exceptional workmanship and customer service. We'll work closely with you to create an outdoor living space that meets your needs and budget. We'll also ensure that the project is completed on time and within budget, with minimal disruption to your daily life. We know how intense the summer heat can be, so we can also incorporate shade structures into the design.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision and budget.",
+          "Step 2: Planning and Permitting – Develop detailed plans and obtain necessary permits.",
+          "Step 3: Site Preparation – Prepare the site for construction.",
+          "Step 4: Construction and Finishing – Build the deck or patio and add finishing touches."
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Increased home value",
+          "Enhanced aesthetic appeal",
+          "Improved entertainment options"
+        ],
+        "faq": [
+          {
+            "question": "What type of materials should I use for my deck or patio?",
+            "answer": "The best materials depend on your budget, style preferences, and maintenance requirements. We can provide recommendations based on your needs."
+          },
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "In most cases, permits are required for deck and patio construction. We'll handle the permitting process for you."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The duration of the project depends on the size and complexity of the design, but typically ranges from 1 to 3 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Wichita home with Jbc Construction's reliable roofing services.",
+        "description": "Your roof is your home's first line of defense against the elements. Jbc Construction provides comprehensive roofing services to protect your home from the harsh Kansas weather. Whether you need a new roof installation, roof repair, or roof maintenance, we can help.\n\nOur roofing services include everything from roof inspections and estimates to roof replacement and repair. We work with a variety of roofing materials, including asphalt shingles, metal roofing, and tile roofing. We're experienced in dealing with the specific challenges of roofing in Wichita, such as hail damage, wind damage, and extreme temperature fluctuations. We ensure that all work is up to code and meets the highest standards of quality.\n\nWe're committed to providing exceptional workmanship and customer service. We'll work closely with you to assess your roofing needs and provide the best possible solution. We'll also ensure that the project is completed on time and within budget, with minimal disruption to your daily life.",
+        "process": [
+          "Step 1: Roof Inspection – Assess the condition of your roof.",
+          "Step 2: Estimate and Planning – Provide a detailed estimate and plan for the project.",
+          "Step 3: Roof Replacement or Repair – Replace or repair damaged roofing materials.",
+          "Step 4: Clean Up and Inspection – Clean up the site and inspect the finished roof."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved protection from the elements",
+          "Enhanced curb appeal",
+          "Energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "It's recommended to have your roof inspected at least once a year, and after any major weather event."
+          },
+          {
+            "question": "How long does a new roof last?",
+            "answer": "The lifespan of a roof depends on the materials used, but typically ranges from 20 to 50 years."
+          },
+          {
+            "question": "What are the signs that I need a new roof?",
+            "answer": "Signs include missing or damaged shingles, leaks, and excessive granule loss."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation-repair",
+        "name": "Siding Installation & Repair",
+        "shortDescription": "Enhance your home's curb appeal and protection with Jbc Construction's siding services in Wichita.",
+        "description": "New or repaired siding can dramatically improve the look and value of your home while protecting it from the elements. Jbc Construction offers expert siding installation and repair services in Wichita and surrounding areas.\n\nWe work with a variety of siding materials, including vinyl, wood, fiber cement, and metal, to match your home's style and budget. Our services include removing old siding, installing new siding, repairing damaged siding, and ensuring proper weather sealing. We understand the challenges posed by Wichita's climate, including extreme temperature changes, strong winds, and occasional hail storms, and we use durable, weather-resistant materials to protect your home for years to come.\n\nWe are committed to providing quality workmanship and exceptional customer service. We will work closely with you to choose the right siding for your home and ensure a seamless installation process. We understand that having work done on your home can be disruptive, so we strive to minimize the inconvenience and complete the project on time and within budget.",
+        "process": [
+          "Step 1: Consultation and Siding Selection – We will discuss your needs and help you choose the right siding.",
+          "Step 2: Removal of Old Siding – We will carefully remove your old siding and dispose of it properly.",
+          "Step 3: Installation of New Siding – We will install your new siding with precision and attention to detail.",
+          "Step 4: Inspection and Cleanup – We will inspect the finished product and clean up the job site."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved curb appeal",
+          "Enhanced weather protection",
+          "Reduced energy costs"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of new siding?",
+            "answer": "New siding can increase your home's value, improve its curb appeal, protect it from the elements, and reduce energy costs."
+          },
+          {
+            "question": "How long does siding installation take?",
+            "answer": "The duration of siding installation depends on the size of your home and the type of siding, but typically ranges from one to two weeks."
+          },
+          {
+            "question": "How do I choose the right siding for my home?",
+            "answer": "We can help you choose the right siding based on your budget, style preferences, and the climate in Wichita."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Wichita",
+        "slug": "wichita-ks",
+        "state": "KS",
+        "content": "Jbc Construction is proud to serve the vibrant city of Wichita, Kansas. As a leading general contractor, we bring expertise and dedication to every project, whether it's a residential renovation, a commercial build-out, or a custom home construction. We understand the unique architectural styles and building codes of Wichita and are committed to delivering exceptional results that exceed our clients' expectations.\n\nFrom the historic districts to the growing suburbs, Jbc Construction is equipped to handle projects of any size and complexity. We prioritize clear communication, meticulous planning, and skilled craftsmanship to ensure a seamless and stress-free construction experience. Our commitment to quality and customer satisfaction has made us a trusted partner for homeowners and businesses throughout Wichita.",
+        "localContext": "Wichita, known as the \"Air Capital of the World,\" boasts a rich history and a thriving arts and culture scene. The city's diverse neighborhoods and strong sense of community make it a wonderful place to live and work.",
+        "nearbyAreas": [
+          "Derby",
+          "Goddard",
+          "Andover"
+        ]
+      },
+      {
+        "city": "Andover",
+        "slug": "andover-ks",
+        "state": "KS",
+        "content": "Jbc Construction extends its exceptional general contracting services to the growing community of Andover, Kansas. We understand the unique needs of homeowners and businesses in Andover and are dedicated to providing top-quality construction solutions tailored to their specific requirements. Whether you're looking to remodel your kitchen, build a new home, or expand your commercial space, we have the expertise and experience to bring your vision to life.\n\nOur team at Jbc Construction is committed to delivering exceptional craftsmanship, attention to detail, and outstanding customer service. We pride ourselves on our ability to manage projects efficiently and effectively, ensuring that they are completed on time and within budget. We are proud to be a part of the Andover community and are committed to helping our clients create spaces that they will love for years to come.",
+        "localContext": "Andover is a thriving suburban community known for its excellent schools, beautiful parks, and family-friendly atmosphere. The city's strong sense of community and convenient location make it a desirable place to live.",
+        "nearbyAreas": [
+          "Wichita",
+          "Rose Hill",
+          "Augusta"
+        ]
+      },
+      {
+        "city": "Derby",
+        "slug": "derby-ks",
+        "state": "KS",
+        "content": "Jbc Construction is pleased to offer its comprehensive general contracting services to the residents and businesses of Derby, Kansas. We are a trusted partner for all your construction needs, from small renovations to large-scale projects. Our team of experienced professionals is dedicated to providing exceptional craftsmanship, superior customer service, and innovative solutions that meet your unique requirements.\n\nWe understand the importance of creating spaces that are both functional and aesthetically pleasing. That's why we work closely with our clients to understand their vision and bring it to life. Whether you're looking to update your home, build a new office space, or expand your business, Jbc Construction is here to help you every step of the way.",
+        "localContext": "Derby is a growing city known for its strong schools, family-friendly environment, and convenient access to Wichita. The city's commitment to community development makes it a great place to live and raise a family.",
+        "nearbyAreas": [
+          "Wichita",
+          "Mulvane",
+          "Rose Hill"
+        ]
+      },
+      {
+        "city": "Goddard",
+        "slug": "goddard-ks",
+        "state": "KS",
+        "content": "Jbc Construction proudly serves the community of Goddard, Kansas, providing top-notch general contracting services for residential and commercial projects. We understand the unique character of Goddard and are committed to delivering construction solutions that enhance its appeal. From home remodeling and additions to commercial construction and renovations, we have the expertise and resources to handle any project with precision and care.\n\nOur team at Jbc Construction is dedicated to providing exceptional customer service and superior craftsmanship. We work closely with our clients to understand their needs and preferences, ensuring that every project is completed to their satisfaction. We are proud to be a part of the Goddard community and are committed to helping our clients create spaces that are both beautiful and functional.",
+        "localContext": "Goddard is a thriving community known for its excellent schools, friendly atmosphere, and strong sense of community pride. The city's commitment to growth and development makes it a great place to live and work.",
+        "nearbyAreas": [
+          "Wichita",
+          "Maize",
+          "Andale"
+        ]
+      },
+      {
+        "city": "Maize",
+        "slug": "maize-ks",
+        "state": "KS",
+        "content": "Jbc Construction extends its professional general contracting services to Maize, Kansas. We are dedicated to providing Maize residents and businesses with quality construction, remodeling, and renovation services. From updating your kitchen to building a new commercial space, our team brings expertise and a commitment to excellence to every project.\n\nWe understand the specific needs of the Maize community and tailor our services to meet them. We focus on clear communication, efficient project management, and superior craftsmanship to ensure a smooth and successful construction experience. Jbc Construction is committed to building lasting relationships with our clients in Maize and delivering results that exceed expectations.",
+        "localContext": "Maize is a growing suburban community known for its excellent schools and family-friendly environment. The city's close proximity to Wichita provides residents with convenient access to urban amenities.",
+        "nearbyAreas": [
+          "Wichita",
+          "Goddard",
+          "Colwich"
+        ]
+      },
+      {
+        "city": "Haysville",
+        "slug": "haysville-ks",
+        "state": "KS",
+        "content": "Jbc Construction is pleased to offer its general contracting services to the residents and businesses of Haysville, Kansas. We are committed to providing high-quality construction solutions that meet the unique needs of our clients. Whether you're looking to remodel your home, build a new office space, or expand your business, we have the expertise and experience to bring your vision to life.\n\nOur team at Jbc Construction is dedicated to providing exceptional customer service and superior craftsmanship. We work closely with our clients to understand their needs and preferences, ensuring that every project is completed to their satisfaction. We are proud to be a part of the Haysville community and are committed to helping our clients create spaces that are both beautiful and functional.",
+        "localContext": "Haysville is a welcoming community known for its strong schools and family-friendly atmosphere. The city's convenient location and affordable housing make it a desirable place to live.",
+        "nearbyAreas": [
+          "Wichita",
+          "Clearwater",
+          "Mulvane"
+        ]
+      },
+      {
+        "city": "Park City",
+        "slug": "park-city-ks",
+        "state": "KS",
+        "content": "Jbc Construction is proud to serve Park City, Kansas, offering reliable and professional general contracting services. We are dedicated to providing the residents and businesses of Park City with high-quality construction, remodeling, and renovation solutions. Whether you're looking to update your home, build a new commercial space, or expand your business, our team is here to help.\n\nWe understand the importance of creating spaces that are both functional and aesthetically pleasing. That's why we work closely with our clients to understand their vision and bring it to life. Jbc Construction is committed to delivering exceptional results that exceed expectations and building lasting relationships with our clients in Park City.",
+        "localContext": "Park City is a growing community known for its friendly atmosphere and convenient location. The city offers a variety of amenities and services, making it a great place to live and work.",
+        "nearbyAreas": [
+          "Wichita",
+          "Valley Center",
+          "Kechi"
+        ]
+      },
+      {
+        "city": "Valley Center",
+        "slug": "valley-center-ks",
+        "state": "KS",
+        "content": "Jbc Construction is dedicated to providing Valley Center, Kansas, with exceptional general contracting services. We are committed to offering homeowners and businesses in Valley Center top-quality construction, remodeling, and renovation solutions. From small home improvements to large-scale commercial projects, our team has the skills and experience to deliver outstanding results.\n\nWe understand the specific needs of the Valley Center community and tailor our services to meet them. We focus on clear communication, efficient project management, and superior craftsmanship to ensure a smooth and successful construction experience. Jbc Construction is proud to be a part of the Valley Center community and is committed to helping our clients create spaces that they will love for years to come.",
+        "localContext": "Valley Center is a close-knit community known for its excellent schools and strong sense of community pride. The city offers a peaceful and family-friendly environment.",
+        "nearbyAreas": [
+          "Wichita",
+          "Park City",
+          "Bentley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Jbc Construction did an amazing job on our kitchen remodel! They listened to our ideas and helped us create a beautiful and functional space. The team was professional, courteous, and always on time. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Basement Finishing",
+        "text": "We hired Jbc Construction to finish our basement, and we're very happy with the results. They transformed a dark, unfinished space into a comfortable and inviting living area. There were a couple of minor hiccups along the way, but they were quick to address them. Overall, a great experience.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Bathroom Remodel",
+        "text": "Jbc Construction completely transformed our outdated bathroom into a modern oasis. The quality of their work is exceptional, and their attention to detail is impressive. They were also very respectful of our home and kept the work area clean.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We love our new deck built by Jbc Construction! It's the perfect space for entertaining and relaxing. The team was professional, efficient, and always willing to answer our questions. We highly recommend them for any outdoor construction projects.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "Jbc Construction repaired our roof after a recent hailstorm. They were quick to respond and provided a fair estimate. The repair work was done efficiently and effectively. We appreciate their prompt and reliable service.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "We recently had new siding installed by Jbc Construction, and we couldn't be happier with the results. The new siding looks great and has significantly improved our home's curb appeal. The installation team was professional and efficient, and they completed the project on time and within budget.",
+        "date": "2024-05-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jbc Construction | Wichita General Contractor",
+        "description": "Trusted Wichita general contractor. Kitchen & bath remodeling, basement finishing, decks, roofing. Free quotes!"
+      },
+      "about": {
+        "title": "About Jbc Construction | Wichita, KS",
+        "description": "Learn about Jbc Construction's values, experience, and commitment to the Wichita community."
+      },
+      "services": {
+        "title": "Jbc Construction Services | Wichita, KS",
+        "description": "Explore Jbc Construction's comprehensive services: remodeling, roofing, decks, and more in Wichita."
+      },
+      "contact": {
+        "title": "Contact Jbc Construction | Wichita, KS",
+        "description": "Contact Jbc Construction for a free consultation and estimate for your next project in Wichita."
+      },
+      "reviews": {
+        "title": "Jbc Construction Reviews | Wichita, KS",
+        "description": "Read reviews from satisfied Jbc Construction customers in the Wichita area."
+      },
+      "service-areas": {
+        "title": "Jbc Construction Service Areas | Wichita, KS",
+        "description": "Jbc Construction provides general contractor services in Wichita and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-installation-repair": "/images/service-siding-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation-repair": {
+        "src": "/images/service-siding-installation-repair.webp",
+        "srcset": "/images/service-siding-installation-repair-400w.webp 400w, /images/service-siding-installation-repair-800w.webp 800w, /images/service-siding-installation-repair-1200w.webp 1200w, /images/service-siding-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
